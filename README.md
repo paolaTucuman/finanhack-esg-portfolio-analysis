@@ -34,8 +34,6 @@ Los archivos originales de datos no están disponibles en este repositorio. El [
 - El análisis produjo dos grupos y una lista de **50 candidatas** cercanas a los centroides. El gráfico de distribuciones muestra la variación que todavía existe en las variables ESG después del filtrado.
 - En la primera cartera calculada, **siete activos recibieron peso positivo**. Los tres mayores concentraron aproximadamente **83,5 %** del peso. Las salidas del notebook registran un retorno medio anualizado calculado de **25,41 %** y una volatilidad anualizada de **15,88 %**. Son resultados del ajuste histórico, no de una inversión real ni de una prueba prospectiva.
 
-![Distribuciones de variables ESG tras el filtrado](images/distribuciones-esg.png)
-
 ![Pesos calculados para la cartera del ejercicio](images/pesos-cartera.png)
 
 ## Alcance y límites
