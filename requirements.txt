@@ -1,0 +1,8 @@
+refinitiv-data
+eikon
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
